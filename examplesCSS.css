@@ -1,0 +1,81 @@
+/*
+table{
+    border: 1px solid #1d015e;
+    width: 90%;
+    height: 100%;
+}
+#examHead{
+
+    font-size: 300%;
+    color: blanchedalmond;
+    background-color: #1d015e;
+}
+*/
+table {
+    /* border-collapse: collapse; */
+}
+
+table, th, td {
+    width: 100%;
+    border: 1px solid black; 
+    padding: 0px;
+    text-align: left;
+}
+
+tfoot {
+    background-color: darkgrey;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 1.5em;
+    color: #5a5a5a;
+    margin-left: 10px;
+}
+
+#row2-content {
+    width: 90%;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    font-size: 1.75em;
+}
+
+#row3-content {
+    width: 80%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+#row4-col1 {
+    width: 25%;
+    vertical-align: top;
+}
+
+#row4-col1-content {
+    margin-left: 10px;
+}
+.table2-col1 {
+    width: 20%;
+    vertical-align: top;
+    margin: 10px;
+    color: white;
+    font-size: 1.25em;
+}
+
+#table2-row3-col1 {
+    background-color: darkblue;
+}
+
+#table2-col1-2 {
+    background-color: blue;
+}
+
+.row4-col2-title {
+    margin: 10px;
+}
